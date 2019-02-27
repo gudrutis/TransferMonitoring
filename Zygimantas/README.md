@@ -1,6 +1,7 @@
 # Intro
 
 This project represents my contribution to the *Transfer metrics analytics* project as a CERN Summer Student 2016. Here you will find:
+- [A final report introducing ]( ../Zygimantas/Report/SUMMER_STUDENT_REPORT_Z_MATONIS.pdf) the problem and work done;
 - src/Python:
     + jsonUtilities.py - scripts to prepare custom .txt file with JSON objects to ML suitable format (.CSV file with hashed values).
     + benchmark.py | benchmark_conf.py - script to used to benchmark different algorithms with different parameters.
