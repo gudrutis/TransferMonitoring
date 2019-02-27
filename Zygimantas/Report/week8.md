@@ -2,7 +2,7 @@
  
 - Made presentation and report about project.
 - *train_csv* utility from DCAFPilot doesnt like files with DOS like file endings (CRLF). 
-- runned RandomForestClassifier on datasets.
+- ran RandomForestClassifier on datasets.
 
 # Error rate predictions 
 
